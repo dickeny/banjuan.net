@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /blog
+Disallow: /twitter
+Disallow: /download
+Disallow: /_log
+Disallow: /tt
+Disallow: /n
+
